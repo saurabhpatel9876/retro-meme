@@ -177,6 +177,109 @@ export default function Home() {
                 Relive the golden era of online jokes.
               </p>
             </div>
+
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/4th.jpg"
+                alt="Retro Meme 1"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #1</h3>
+              <p className="text-sm mt-2">
+                This meme was the king of the 90s internet!
+              </p>
+            </div>
+
+            {/* Card 2 */}
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/5th.jpg"
+                alt="Retro Meme 2"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #2</h3>
+              <p className="text-sm mt-2">
+                Classic humor that never gets old.
+              </p>
+            </div>
+
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/6th.jpg"
+                alt="Retro Meme 1"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #1</h3>
+              <p className="text-sm mt-2">
+                This meme was the king of the 90s internet!
+              </p>
+            </div>
+
+            {/* Card 2 */}
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/7th.jpg"
+                alt="Retro Meme 2"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #2</h3>
+              <p className="text-sm mt-2">
+                Classic humor that never gets old.
+              </p>
+            </div>
+
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/8th.jpg"
+                alt="Retro Meme 1"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #1</h3>
+              <p className="text-sm mt-2">
+                This meme was the king of the 90s internet!
+              </p>
+            </div>
+
+            {/* Card 2 */}
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/9th.jpg"
+                alt="Retro Meme 2"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #2</h3>
+              <p className="text-sm mt-2">
+                Classic humor that never gets old.
+              </p>
+            </div>
+
+            <div className="bg-white border-2 border-gray-600 rounded-lg shadow-lg p-4">
+              <Image
+                src="/images/10th.jpg"
+                alt="Retro Meme 1"
+                width={300}
+                height={200}
+                className="rounded-t-lg object-cover"
+              />
+              <h3 className="text-lg font-bold mt-4">Meme #1</h3>
+              <p className="text-sm mt-2">
+                This meme was the king of the 90s internet!
+              </p>
+            </div>
+
+           
           </div>
         </section>
 
